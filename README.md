@@ -1,2 +1,2 @@
-# transformer-from-scratch
-Easy to understand transformer implementation completely from scratch
+# Transformer from Scratch
+Easy to understand neural transformer implementation completely from scratch
